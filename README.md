@@ -1,0 +1,8 @@
+# Credit-Card-Customers-Churn-Prediction
+
+Credit Card is a solution of payment when you do not have money in hand and in need of spending now. Providers of credit cards can set conditions and benefits for using their services and make profit. However, customers can choose a provider that gives conditions and benefits suitable for their lifestyle. If the current one does not serve their purposes, then they can choose to stop the service and sign with a more suitable one. This leads to one of the most important classification jobs in most businesses to keep their customers satisfied and use their products, called churn prediction.
+
+In this task, a manager of a bank wants to classify customers who are likely to cancel their credit card subscription. With the prediction they can use this information to provide those people with better services and change customers’ decision to continue their credit card subscription. The data that the bank has collected contains many features, such as their salary, marital status, income range, card category, etc. as they can use to keep track of every customers’ behavior.
+
+The downside of this data is having an imbalanced dataset. The bank has only 16.1% from over 10,000 customers that would cancel the subscription. This is a challenge we need to solve for the bank manager with our data mining technique. We will first visualize the data we obtain to get insight. Then, we will build machine learning models to learn from the dataset and try to predict who would cancel a credit card subscription. The models we will build in this report are Classification Tree (Decision Tree), Naïve Bayes Classifier, and k Nearest Neighbor.
+
