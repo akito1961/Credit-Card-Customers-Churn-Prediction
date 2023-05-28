@@ -1,4 +1,4 @@
-# Credit-Card-Customers-Churn-Prediction
+# Credit Card Customers Churn Prediction
 
 Credit Card is a solution of payment when you do not have money in hand and in need of spending now. Providers of credit cards can set conditions and benefits for using their services and make profit. However, customers can choose a provider that gives conditions and benefits suitable for their lifestyle. If the current one does not serve their purposes, then they can choose to stop the service and sign with a more suitable one. This leads to one of the most important classification jobs in most businesses to keep their customers satisfied and use their products, called churn prediction.
 
